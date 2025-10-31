@@ -1,4 +1,5 @@
 ﻿  Application.cpp
-  OpenGL.vcxproj -> C:\Dev\Cherno OpenGL\OpenGL\Debug\OpenGL.exe
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGL.vcxproj -> C:\Dev\Cherno-OpenGL\OpenGL\Debug\OpenGL.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.
