@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{62A6BDEB-4F3B-478D-A07E-337AF6F944C0}|OpenGL.vcxproj|C:\\Dev\\Cherno-OpenGL\\OpenGL\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{62A6BDEB-4F3B-478D-A07E-337AF6F944C0}|OpenGL.vcxproj|solutionrelative:src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A6BDEB-4F3B-478D-A07E-337AF6F944C0}|OpenGL.vcxproj|C:\\DEV\\CHERNO-OPENGL\\OPENGL\\DEPENDENCIES\\GLEW\\INCLUDE\\GL\\GLEW.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62A6BDEB-4F3B-478D-A07E-337AF6F944C0}|OpenGL.vcxproj|solutionrelative:DEPENDENCIES\\GLEW\\INCLUDE\\GL\\GLEW.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +30,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "glew.h",
+              "DocumentMoniker": "C:\\Dev\\Cherno-OpenGL\\OpenGL\\Dependencies\\GLEW\\include\\GL\\glew.h",
+              "RelativeDocumentMoniker": "Dependencies\\GLEW\\include\\GL\\glew.h",
+              "ToolTip": "C:\\Dev\\Cherno-OpenGL\\OpenGL\\Dependencies\\GLEW\\include\\GL\\glew.h",
+              "RelativeToolTip": "Dependencies\\GLEW\\include\\GL\\glew.h",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAwFEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-03T07:30:44.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Application.cpp",
               "DocumentMoniker": "C:\\Dev\\Cherno-OpenGL\\OpenGL\\src\\Application.cpp",
               "RelativeDocumentMoniker": "src\\Application.cpp",
-              "ToolTip": "C:\\Dev\\Cherno-OpenGL\\OpenGL\\src\\Application.cpp",
-              "RelativeToolTip": "src\\Application.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "ToolTip": "C:\\Dev\\Cherno-OpenGL\\OpenGL\\src\\Application.cpp*",
+              "RelativeToolTip": "src\\Application.cpp*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-31T04:41:05.829Z",
               "EditorCaption": ""
